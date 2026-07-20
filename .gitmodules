@@ -16,3 +16,6 @@
 [submodule "2026 SecurityFirst 연초 해킹 대회/WEB/STELLA-SYSTEM"]
 	path = 2026 SecurityFirst 연초 해킹 대회/WEB/STELLA-SYSTEM
 	url = https://github.com/fox5t4r/STELLA-SYSTEM.git
+[submodule "2026 SecurityFirst 연초 해킹 대회/WEB/Artvault"]
+	path = 2026 SecurityFirst 연초 해킹 대회/WEB/Artvault
+	url = https://github.com/fox5t4r/Artvault.git
