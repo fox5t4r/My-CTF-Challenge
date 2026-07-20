@@ -1,3 +1,6 @@
 [submodule "2025 SecurityFirst 연말 해킹 대회/WEB/fffileupload"]
 	path = 2025 SecurityFirst 연말 해킹 대회/WEB/fffileupload
 	url = https://github.com/fox5t4r/fffileupload.git
+[submodule ".2025 SecurityFirst 연말 해킹 대회/WEB/Crack-The-Core"]
+	path = .2025 SecurityFirst 연말 해킹 대회/WEB/Crack-The-Core
+	url = https://github.com/fox5t4r/Crack-The-Core.git
