@@ -7,3 +7,6 @@
 [submodule "2026 SecurityFirst 연초 해킹 대회/WEB/IRobot"]
 	path = 2026 SecurityFirst 연초 해킹 대회/WEB/IRobot
 	url = https://github.com/fox5t4r/IRobot.git
+[submodule "2026 SecurityFirst 연초 해킹 대회/MISC/LEE-SIN"]
+	path = 2026 SecurityFirst 연초 해킹 대회/MISC/LEE-SIN
+	url = https://github.com/fox5t4r/LEE-SIN.git
