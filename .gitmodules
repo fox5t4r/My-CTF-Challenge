@@ -4,3 +4,6 @@
 [submodule "2025 SecurityFirst 연말 해킹 대회/WEB/Crack-The-Core"]
 	path = 2025 SecurityFirst 연말 해킹 대회/WEB/Crack-The-Core
 	url = https://github.com/fox5t4r/Crack-The-Core.git
+[submodule "2026 SecurityFirst 연초 해킹 대회/WEB/IRobot"]
+	path = 2026 SecurityFirst 연초 해킹 대회/WEB/IRobot
+	url = https://github.com/fox5t4r/IRobot.git
