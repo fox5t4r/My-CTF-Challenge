@@ -13,3 +13,6 @@
 [submodule "2026 SecurityFirst 연초 해킹 대회/WEB/dubai-chewy-cookie"]
 	path = 2026 SecurityFirst 연초 해킹 대회/WEB/dubai-chewy-cookie
 	url = https://github.com/fox5t4r/dubai-chewy-cookie.git
+[submodule "2026 SecurityFirst 연초 해킹 대회/WEB/STELLA-SYSTEM"]
+	path = 2026 SecurityFirst 연초 해킹 대회/WEB/STELLA-SYSTEM
+	url = https://github.com/fox5t4r/STELLA-SYSTEM.git
