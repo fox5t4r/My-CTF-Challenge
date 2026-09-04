@@ -19,3 +19,6 @@
 [submodule "2026 SecurityFirst 연초 해킹 대회/WEB/Artvault"]
 	path = 2026 SecurityFirst 연초 해킹 대회/WEB/Artvault
 	url = https://github.com/fox5t4r/Artvault.git
+[submodule "2026 CSKWS 동아리 연합 CTF/WEB/CSKWS-ARCHIVE"]
+	path = 2026 CSKWS 동아리 연합 CTF/WEB/CSKWS-ARCHIVE
+	url = https://github.com/fox5t4r/CSKWS-ARCHIVE.git
